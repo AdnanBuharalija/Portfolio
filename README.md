@@ -32,7 +32,7 @@ All commands assume you're using a Debian flavor of Linux, and are meant as an e
 2. Move to the desired directory to copy these files:
 ```cd ~/repositories```
 3. Clone the repo:
-```git clone !!!!!!!!INSERT GITHUB LINK HERE!!!!!!!!
+```git clone https://github.com/AdnanBuharalija/Portfolio/blob/main/README.md
 #### Update 
 1. Move to the `cybersecurity_bootcamp` directory:
 ```cd ~/repositories/cybersecurity_bootcamp```
