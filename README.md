@@ -1,5 +1,12 @@
 # Portfolio
 Portfolio of materials from Georgia Tech BootCamp
+
+
+
+![Cloud Diagram Homework 12](https://user-images.githubusercontent.com/94725509/161359831-a8b8773e-4bca-487c-abe5-8bf6ad12d6c3.png)
+
+
+
 ## Automated ELK Stack
 
 The files in this repository were used to configure the network depicted below.
